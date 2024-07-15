@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sports Instructions</string>
+    <string name="football_instructions">1. Play on a rectangular field with goalposts at each end.\n2. Use a spherical ball.\n3. Two teams of eleven players.\n4. Score by getting the ball into the opposing goal.</string>
+    <string name="basketball_instructions">1. Play on a rectangular court.\n2. Use a spherical ball.\n3. Two teams of five players.\n4. Score by shooting the ball through the opposing hoop.</string>
+    <string name="tennis_instructions">1. Play on a rectangular court with a net in the middle.\n2. Use a tennis racket and a ball.\n3. Two or four players.\n4. Score by hitting the ball so the opponent cannot return it.</string>
+</resources>
